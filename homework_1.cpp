@@ -1,8 +1,5 @@
 #include <iostream>
 
-// 20200959 최길훈
-// 1번 과제
-
 class CFamily
 {
 protected :
